@@ -1,0 +1,8 @@
+{
+    "disks": [
+      {
+        "name": "my-desk-1",
+        "mountTo": "media"
+      }
+    ]
+  }
